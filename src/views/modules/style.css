@@ -1,0 +1,195 @@
+.country .form-group {
+  margin-bottom: 0px !important;
+}
+.m-t-5 {
+  margin-top: 5px;
+}
+.m-t-25 {
+  margin-top: 25px;
+}
+.invalid-input,
+.invalid-input .select__control {
+  border-color: #ea5455;
+}
+.item .form-group {
+  align-items: center;
+  justify-content: center;
+}
+.item {
+  width: 92%;
+  margin: 0 auto;
+}
+.item .addCountry {
+  width: 25%;
+}
+.badge-info {
+  height: 30px;
+  width: 20%;
+  font-size: 1rem;
+  color: #0854a0;
+  left: 0;
+  font-weight: 600;
+  margin-bottom: 10px;
+  background-color: #00cfe852;
+}
+#contactdetail .contact .addCountry {
+  width: 23%;
+}
+#contactdetail .border {
+  margin-bottom: 20px;
+}
+form label:not(.form-check-label),
+form legend {
+  color: black;
+  font-weight: 700;
+  font-size: 1rem;
+  margin-bottom: 5px;
+}
+.addCountry {
+  width: 22%;
+}
+/* svg {
+  color: grey !important;
+} */
+.table th,
+.table td {
+  padding: 0.6rem;
+}
+.table-striped tbody tr:nth-of-type(odd) {
+  background-color: rgb(194 198 220 / 14%) !important;
+}
+.form-check-input {
+  transform: scale(1.5);
+  margin-left: 5px !important;
+  position: relative !important;
+}
+.right {
+  float: right;
+}
+.roleTable {
+  width: 65%;
+  float: left;
+}
+.roleForm {
+  width: 35%;
+  float: left;
+}
+.m5 {
+  margin-left: 15px;
+  margin-top: 15px;
+}
+
+/* Custom Styling */
+html {
+  scroll-behavior: smooth;
+}
+[dir="ltr"] .has-icon-left .form-control-position svg {
+  left: -5px !important;
+  top: -3px !important;
+}
+.w-80 {
+  width: 80% !important;
+}
+.mt-1_8 {
+  margin-top: 1.8rem;
+}
+.app-content {
+  padding-top: 7.5rem !important;
+}
+
+.badge-border {
+  border-radius: 0px 20px 20px 0px;
+}
+.cardInside {
+  border: 5px solid #0854a0;
+  border-top: none;
+  border-bottom: none;
+  border-right: none;
+  border-radius: 0;
+  margin-left: 1.5%;
+}
+.customNavStyle {
+  width: calc(100% / 5);
+  background-color: #efefef;
+}
+
+[dir="ltr"] label {
+  font-size: 0.75rem !important;
+  font-weight: normal !important;
+}
+
+.jpnrBA {
+  font-size: 0.85rem !important;
+}
+
+.jbXzPk {
+  font-size: 0.8rem !important;
+}
+
+.card .card-title {
+  font-size: 1.285rem;
+}
+
+.table thead th,
+.table tbody td {
+  font-size: 0.85rem !important;
+}
+.table thead th {
+  font-weight: 500 !important;
+}
+
+.supplier-container {
+  padding: 0.5rem 0rem !important;
+}
+
+footer.footer {
+  padding: 0.2rem 2.2rem !important;
+}
+
+.tabTitle {
+  font-size: 1.1rem !important;
+  background-color: #dbedfe;
+}
+
+.action-btn {
+  padding: 0.3rem !important;
+}
+
+.err-msg {
+  font-size: 0.75rem;
+}
+
+/* // For Print Module */
+.a4-container {
+  height: 3508px;
+  width: 2480px;
+  background-color: #ea5455;
+}
+
+/* @media all {
+  .page-break {
+    display: none;
+  }
+}
+
+@media print {
+  html,
+  body {
+    height: initial !important;
+    overflow: initial !important;
+    -webkit-print-color-adjust: exact;
+  }
+}
+
+@media print {
+  .page-break {
+    margin-top: 1rem;
+    display: block;
+    page-break-before: auto;
+  }
+}
+
+@page {
+  size: auto;
+  margin: 20mm;
+} */
